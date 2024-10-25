@@ -29,11 +29,13 @@ Para configurar o ambiente de testes, siga os passos abaixo:
 Existem duas maneiras de rodar os testes:
 
 **1.** Executando com a interface gráfica
+
 Para abrir a interface gráfica do Cypress e visualizar os testes:
 
 **npx cypress open**
 
 **2.** Executando no modo headless
+
 Para rodar os testes no modo headless (sem abrir o navegador):
 
 **npx cypress run**
