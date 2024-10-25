@@ -15,7 +15,7 @@ Para configurar o ambiente de testes, siga os passos abaixo:
 
 **1.** Clone o repositório:
 
-**git clone https://github.com/usuario/projeto-cypress.git**
+**git clone https://github.com/empresarialmaia/Saucedemo-Cypress.git**
 
 **2.** Navegue até o diretório do projeto:
 
